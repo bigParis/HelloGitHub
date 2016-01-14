@@ -1,0 +1,147 @@
+﻿$axure.loadCurrentPage({
+  "url":"充值中心入口.html",
+  "generationDate":new Date(1451359024265),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"74037a136e6d4d82a89ca300d55b2b17",
+    "type":"Axure:Page",
+    "name":"充值中心入口",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d1a98b15c3c8427dabfef649027ae8ec",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":83,
+              "y":31},
+            "size":{
+              "width":505,
+              "height":130}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"596657c6c74942b29a866bd91f7a1647",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":83,
+                  "y":31},
+                "size":{
+                  "width":505,
+                  "height":130}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"de89fc7d60c0470796159a1457c31343",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":119,
+              "y":208},
+            "size":{
+              "width":291,
+              "height":522}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fd1951414ad847f28392b6bdc8cb8fb2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":119,
+                  "y":208},
+                "size":{
+                  "width":291,
+                  "height":522}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/充值中心入口/u2.png"}},
+{
+          "id":"2e781d138be345129adc62c1dc349275",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":581,
+              "y":208},
+            "size":{
+              "width":299,
+              "height":523}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d7f9fae95df24eff95eceddf413d7dd1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":581,
+                  "y":208},
+                "size":{
+                  "width":299,
+                  "height":523}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/赠送礼物的入口和人物选择/u6.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d1a98b15c3c8427dabfef649027ae8ec":{
+      "scriptId":"u0"},
+    "596657c6c74942b29a866bd91f7a1647":{
+      "scriptId":"u1"},
+    "de89fc7d60c0470796159a1457c31343":{
+      "scriptId":"u2"},
+    "fd1951414ad847f28392b6bdc8cb8fb2":{
+      "scriptId":"u3"},
+    "2e781d138be345129adc62c1dc349275":{
+      "scriptId":"u4"},
+    "d7f9fae95df24eff95eceddf413d7dd1":{
+      "scriptId":"u5"}}});

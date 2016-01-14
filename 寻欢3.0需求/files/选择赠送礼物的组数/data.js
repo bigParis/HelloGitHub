@@ -1,0 +1,110 @@
+﻿$axure.loadCurrentPage({
+  "url":"选择赠送礼物的组数.html",
+  "generationDate":new Date(1451359024229),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"bbe24fc869854f42a926d428bc151969",
+    "type":"Axure:Page",
+    "name":"选择赠送礼物的组数",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e57a4ec68c51447b8f91df18f1ae661b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":68,
+              "y":51},
+            "size":{
+              "width":492,
+              "height":301}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"905d3f0ca83941378f7904919ffbc538",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":68,
+                  "y":51},
+                "size":{
+                  "width":492,
+                  "height":301}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"81802a342d3b4ef597efdbac68cf91df",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":349},
+            "size":{
+              "width":200,
+              "height":351}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"176744d87a3848e48d7459ad95117ad9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":60,
+                  "y":349},
+                "size":{
+                  "width":200,
+                  "height":351}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/赠送礼物的主流程-总述/u30.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e57a4ec68c51447b8f91df18f1ae661b":{
+      "scriptId":"u0"},
+    "905d3f0ca83941378f7904919ffbc538":{
+      "scriptId":"u1"},
+    "81802a342d3b4ef597efdbac68cf91df":{
+      "scriptId":"u2"},
+    "176744d87a3848e48d7459ad95117ad9":{
+      "scriptId":"u3"}}});

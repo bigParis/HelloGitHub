@@ -1,0 +1,194 @@
+﻿$axure.loadCurrentPage({
+  "url":"其他一些入口调整.html",
+  "generationDate":new Date(1451359024553.02),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"693dae3968f149919c3f839c0c189a01",
+    "type":"Axure:Page",
+    "name":"其他一些入口调整",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"51aff96ecd2c442bb3875674772479c3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":80,
+              "y":31},
+            "size":{
+              "width":249,
+              "height":439}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bedcbcb335a84678aa25ba49b410f751",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":80,
+                  "y":31},
+                "size":{
+                  "width":249,
+                  "height":439}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/其他一些入口调整/u0.png"}},
+{
+          "id":"eabcd3ce6e1742cca19f4b7739979f56",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":370,
+              "y":80},
+            "size":{
+              "width":481,
+              "height":90}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0f21727372f84fa1bdafd3091c77c588",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":370,
+                  "y":80},
+                "size":{
+                  "width":481,
+                  "height":90}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"35a5bf91283641c3888f0e38d6ba69ec",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":520},
+            "size":{
+              "width":246,
+              "height":437}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8509ba503e234e01823d1a87aabbff34",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":520},
+                "size":{
+                  "width":246,
+                  "height":437}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/其他一些入口调整/u4.png"}},
+{
+          "id":"5753f00470274d9eaee2fd2d9752d82a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "fontSize":"24px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF,
+              "opacity":1},
+            "location":{
+              "x":400,
+              "y":540},
+            "size":{
+              "width":505,
+              "height":58}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"13996024e8b149d783daa78bb298d56c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "fontSize":"24px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF,
+                  "opacity":1},
+                "location":{
+                  "x":400,
+                  "y":540},
+                "size":{
+                  "width":505,
+                  "height":58}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "51aff96ecd2c442bb3875674772479c3":{
+      "scriptId":"u0"},
+    "bedcbcb335a84678aa25ba49b410f751":{
+      "scriptId":"u1"},
+    "eabcd3ce6e1742cca19f4b7739979f56":{
+      "scriptId":"u2"},
+    "0f21727372f84fa1bdafd3091c77c588":{
+      "scriptId":"u3"},
+    "35a5bf91283641c3888f0e38d6ba69ec":{
+      "scriptId":"u4"},
+    "8509ba503e234e01823d1a87aabbff34":{
+      "scriptId":"u5"},
+    "5753f00470274d9eaee2fd2d9752d82a":{
+      "scriptId":"u6"},
+    "13996024e8b149d783daa78bb298d56c":{
+      "scriptId":"u7"}}});

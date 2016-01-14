@@ -1,0 +1,147 @@
+﻿$axure.loadCurrentPage({
+  "url":"财富榜.html",
+  "generationDate":new Date(1451359024347.01),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"81084885c68c45088be0ea52d6c2f42c",
+    "type":"Axure:Page",
+    "name":"财富榜",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"35ace3a168ed4eceb461a6c894c94832",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":142,
+              "y":700},
+            "size":{
+              "width":448,
+              "height":390}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dcde0ca0cfb644b89b54ce49149cf2f4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":142,
+                  "y":700},
+                "size":{
+                  "width":448,
+                  "height":390}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/财富榜/u0.png"}},
+{
+          "id":"411599a1505040098f36c48e08814c70",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":191,
+              "y":76},
+            "size":{
+              "width":489,
+              "height":594}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e3feb5bfe00744fb85870cc18dbceebb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":191,
+                  "y":76},
+                "size":{
+                  "width":489,
+                  "height":594}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"085e0b9909304908ad724d3fd87f32e0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":949.999938964844,
+              "y":600},
+            "size":{
+              "width":291,
+              "height":505}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e4a01ba406f34c728a6d649d8b331642",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":949.999938964844,
+                  "y":600},
+                "size":{
+                  "width":291,
+                  "height":505}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/财富榜/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "35ace3a168ed4eceb461a6c894c94832":{
+      "scriptId":"u0"},
+    "dcde0ca0cfb644b89b54ce49149cf2f4":{
+      "scriptId":"u1"},
+    "411599a1505040098f36c48e08814c70":{
+      "scriptId":"u2"},
+    "e3feb5bfe00744fb85870cc18dbceebb":{
+      "scriptId":"u3"},
+    "085e0b9909304908ad724d3fd87f32e0":{
+      "scriptId":"u4"},
+    "e4a01ba406f34c728a6d649d8b331642":{
+      "scriptId":"u5"}}});

@@ -1,0 +1,73 @@
+﻿$axure.loadCurrentPage({
+  "url":"魅力值和财富值的计算方式.html",
+  "generationDate":new Date(1451359024329.01),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ebb87d40f4cd41e0bee3488f503846f7",
+    "type":"Axure:Page",
+    "name":"魅力值和财富值的计算方式",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d8754079ae1f4d6fb76e00f3eb2063ca",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":131,
+              "y":40},
+            "size":{
+              "width":489,
+              "height":474}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e2348b59e6564f73919df59ad99ef361",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":131,
+                  "y":40},
+                "size":{
+                  "width":489,
+                  "height":474}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d8754079ae1f4d6fb76e00f3eb2063ca":{
+      "scriptId":"u0"},
+    "e2348b59e6564f73919df59ad99ef361":{
+      "scriptId":"u1"}}});

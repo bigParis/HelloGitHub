@@ -1,0 +1,110 @@
+﻿$axure.loadCurrentPage({
+  "url":"充值中心功能.html",
+  "generationDate":new Date(1451359024282),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c024672b898741238b10f70a3e5ba79d",
+    "type":"Axure:Page",
+    "name":"充值中心功能",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"48f14a19d10b42f887f877a5a587bb35",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":97,
+              "y":40},
+            "size":{
+              "width":553,
+              "height":673}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6dc2575d2d4c4407863a29e1dc09b117",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":97,
+                  "y":40},
+                "size":{
+                  "width":553,
+                  "height":673}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2a397f08346044a7816830a9738af72c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":186,
+              "y":691},
+            "size":{
+              "width":464,
+              "height":829}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"488cfc54ff5c427c9cdf5afe5e3fd08d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":186,
+                  "y":691},
+                "size":{
+                  "width":464,
+                  "height":829}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/充值中心功能/u2.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "48f14a19d10b42f887f877a5a587bb35":{
+      "scriptId":"u0"},
+    "6dc2575d2d4c4407863a29e1dc09b117":{
+      "scriptId":"u1"},
+    "2a397f08346044a7816830a9738af72c":{
+      "scriptId":"u2"},
+    "488cfc54ff5c427c9cdf5afe5e3fd08d":{
+      "scriptId":"u3"}}});

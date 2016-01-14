@@ -1,0 +1,110 @@
+﻿$axure.loadCurrentPage({
+  "url":"魅力榜和财富榜入口.html",
+  "generationDate":new Date(1451359024316),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"247805a94eef47f493352b375883728b",
+    "type":"Axure:Page",
+    "name":"魅力榜和财富榜入口",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ae423784de964ad88efe6923022ea252",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":131,
+              "y":40},
+            "size":{
+              "width":489,
+              "height":109}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"88259b955c4c41fc8359771efa3b4b10",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":131,
+                  "y":40},
+                "size":{
+                  "width":489,
+                  "height":109}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f877bf4eab9d4984af982d67f1e47bab",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":135,
+              "y":160},
+            "size":{
+              "width":207,
+              "height":370}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2b22c38f9f3045269f11d62792b8d941",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":135,
+                  "y":160},
+                "size":{
+                  "width":207,
+                  "height":370}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/总述/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ae423784de964ad88efe6923022ea252":{
+      "scriptId":"u0"},
+    "88259b955c4c41fc8359771efa3b4b10":{
+      "scriptId":"u1"},
+    "f877bf4eab9d4984af982d67f1e47bab":{
+      "scriptId":"u2"},
+    "2b22c38f9f3045269f11d62792b8d941":{
+      "scriptId":"u3"}}});

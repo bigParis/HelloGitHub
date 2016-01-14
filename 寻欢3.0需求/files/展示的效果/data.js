@@ -1,0 +1,149 @@
+﻿$axure.loadCurrentPage({
+  "url":"展示的效果.html",
+  "generationDate":new Date(1451359024246),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"cd6eed7354f14ca8837210735ebaa561",
+    "type":"Axure:Page",
+    "name":"展示的效果",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c71b6062295245e3be98bb5669c5a8dc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":414,
+              "y":792},
+            "size":{
+              "width":11,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d1cd8032574c4b548e65f4a0bed1df63",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":414,
+                  "y":792},
+                "size":{
+                  "width":11,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"eed36074570b464ea563c92b124793b4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":131,
+              "y":40},
+            "size":{
+              "width":489,
+              "height":589}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff0261fe476a466ca7174176c54cb2ea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":131,
+                  "y":40},
+                "size":{
+                  "width":489,
+                  "height":589}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ad4cb449b4484cfe8389b9e2d9567ed0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":726,
+              "y":207},
+            "size":{
+              "width":614,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"782896b9a5eb4c41b6250ae8f3421b24",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":726,
+                  "y":207},
+                "size":{
+                  "width":614,
+                  "height":243}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/展示的效果/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c71b6062295245e3be98bb5669c5a8dc":{
+      "scriptId":"u0"},
+    "d1cd8032574c4b548e65f4a0bed1df63":{
+      "scriptId":"u1"},
+    "eed36074570b464ea563c92b124793b4":{
+      "scriptId":"u2"},
+    "ff0261fe476a466ca7174176c54cb2ea":{
+      "scriptId":"u3"},
+    "ad4cb449b4484cfe8389b9e2d9567ed0":{
+      "scriptId":"u4"},
+    "782896b9a5eb4c41b6250ae8f3421b24":{
+      "scriptId":"u5"}}});

@@ -1,0 +1,145 @@
+﻿$axure.loadCurrentPage({
+  "url":"日常登录获得金币.html",
+  "generationDate":new Date(1451359024494.01),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"854a89f5a9024121a34ada3fa1f35362",
+    "type":"Axure:Page",
+    "name":"日常登录获得金币",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b64455c444ee4ca18612ffd5be92ee4b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":270,
+              "y":382},
+            "size":{
+              "width":712,
+              "height":708}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"162deada1ca04613927e250741d03a86",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":270,
+                  "y":382},
+                "size":{
+                  "width":712,
+                  "height":708}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/日常登录获得金币/u0.png"}},
+{
+          "id":"8d7edd2563734df2a8f1d9bde2d2c4f0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":290,
+              "y":30},
+            "size":{
+              "width":327,
+              "height":186}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1946bb2c48f24564982d16affdd9d292",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":290,
+                  "y":30},
+                "size":{
+                  "width":327,
+                  "height":186}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9869b1b4287e4b7886cd2abce7f6b413",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":833,
+              "y":30},
+            "size":{
+              "width":645,
+              "height":359}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e72373da99e64f0787c7228ccbd60ce7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":833,
+                  "y":30},
+                "size":{
+                  "width":645,
+                  "height":359}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b64455c444ee4ca18612ffd5be92ee4b":{
+      "scriptId":"u0"},
+    "162deada1ca04613927e250741d03a86":{
+      "scriptId":"u1"},
+    "8d7edd2563734df2a8f1d9bde2d2c4f0":{
+      "scriptId":"u2"},
+    "1946bb2c48f24564982d16affdd9d292":{
+      "scriptId":"u3"},
+    "9869b1b4287e4b7886cd2abce7f6b413":{
+      "scriptId":"u4"},
+    "e72373da99e64f0787c7228ccbd60ce7":{
+      "scriptId":"u5"}}});

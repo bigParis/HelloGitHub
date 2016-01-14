@@ -1,0 +1,110 @@
+﻿$axure.loadCurrentPage({
+  "url":"赠送礼物的物品选择.html",
+  "generationDate":new Date(1451359024213),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e08f055fbd2d4d3e95b1e358e368f37f",
+    "type":"Axure:Page",
+    "name":"赠送礼物的物品选择",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"da67384014aa496fb279dcf5196a62f8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "location":{
+              "x":131,
+              "y":40},
+            "size":{
+              "width":489,
+              "height":403}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3758645cfcce4326ae15caee7ce3eaf8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "location":{
+                  "x":131,
+                  "y":40},
+                "size":{
+                  "width":489,
+                  "height":403}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"85628565e0f7413eae17dfe5bade59eb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":120,
+              "y":476},
+            "size":{
+              "width":256,
+              "height":454}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f23221a1f1ea43bab4efd338d7b50bfe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":120,
+                  "y":476},
+                "size":{
+                  "width":256,
+                  "height":454}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/赠送礼物的物品选择/u2.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "da67384014aa496fb279dcf5196a62f8":{
+      "scriptId":"u0"},
+    "3758645cfcce4326ae15caee7ce3eaf8":{
+      "scriptId":"u1"},
+    "85628565e0f7413eae17dfe5bade59eb":{
+      "scriptId":"u2"},
+    "f23221a1f1ea43bab4efd338d7b50bfe":{
+      "scriptId":"u3"}}});
